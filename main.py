@@ -15,4 +15,4 @@ async def ping(ctx):
 async def hello(ctx):
 	await ctx.send("Hi! this is new bot and a basic one....features coming soon")
 
-client.run("OTYwOTExNjQ5NTg4NTIzMDE4.YkxUtg.1rpp4uVPQ5tLtIR2MZ5GC05cI3E")
+client.run(""TOKEN")
